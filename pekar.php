@@ -4,8 +4,7 @@
   Plugin URI:
   Description: Custom post type
   Version: 1.0.0
-  Author: Salmedin Hamzic <salmedin.hamzic@piktogramstudio.com>
-  Author URI: https://salmedihamzic.com
+  Author: Salmedin Hamzic
   License: GPLv2
  */
 
